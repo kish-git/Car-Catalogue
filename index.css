@@ -1,0 +1,38 @@
+.car-item{
+    margin: 30px;
+}
+
+#welcome{
+    background-color: rgb(43, 238, 196);
+}
+.car-item-image{
+    height: 250px;
+}
+
+.car-items{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+#footer{
+    text-align: center;
+    color: rgb(20, 19, 20);
+    background-color: rgb(50, 216, 152);
+}
+
+.car-item-title{
+    background-color: rgb(230, 216, 137);
+    color: rgb(70, 10, 10);
+}
+
+.car-item-details{
+background-color: darkgray;
+
+}
+
+
+.car-items{
+    background-color: darkgray;
+    
+}
